@@ -8,9 +8,8 @@ The purpose of this application is to generate a README.md file from the command
 ---
 Below is a demonstration on how the application works and how you can use it.
 
-<!-- insert video here -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/16dRl5Vz-2-aJ2Z1r4HYrvOsB8JacH_aQ/view" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/watch?v=gIVZitRpvs0&ab_channel=HectorGuerrero" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ## Installation

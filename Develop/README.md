@@ -1,5 +1,5 @@
 
-   # Hector's README Project
+   # Quiz Game 
    ## Table of Contents
    * [📚Description](#Description)
    * [🔑Installation](#Installation)
@@ -8,22 +8,24 @@
    * [📏Tests](#Tests)
    * [✔Questions](#Questions)
    ---
-   ## 📚Description <a name ="Description"></a>
-   #### This is an application that will generate an amazing README file for your cool projects! Enjoy :)
+   ## 📚Description
+   #### This is a little javascript game made to test your knowledge of javascript. Answer the 10 questions in this cool quiz game!
+
+   ![cool little picture](./src/picture/Screenshot%202022-12-19%20173907.png)
    ---
-   ## 🔑Installation <a name="Installation"></a>
-   #### You will have to use 'npm i
+   ## 🔑Installation
+   #### Simple javascript project no installation needed. 
    ---
-   ## 🧻Usage <a name="Usage"></a>
-   #### Application takes in user input from console/terminal prompts and then generates a cool README
+   ## 🧻Usage
+   #### uses javascript on the backend to help in making this project function
    ---
-   ## 🩹Contributing <a name="Contributing"></a>
-   #### PLEASE, please contribute I dont know a ton. Anything Helps. To contribute shoot me an Email or look at my projects!
+   ## 🩹Contributing
+   #### 
    ---
-   ## 📏Tests <a name="Tests"></a>
-   #### Testing is for the weak
+   ## 📏Tests
+   #### 
    ---
-   ## ✔Questions <a name="Questions"></a>
+   ## ✔Questions
    ---
    ### Reach me with additional questions here!
    * [My Github!](https://www.github.com/h-meister)
